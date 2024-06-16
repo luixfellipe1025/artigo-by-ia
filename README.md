@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="banner (1) .png">
+    <img width="100" src="banner.png">
 </p>
 
 # Projeto artigo técnico gerado por I.A.s
